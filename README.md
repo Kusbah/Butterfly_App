@@ -67,7 +67,4 @@ If you'd like to contribute to Butterfly App, here are some guidelines:
 
 **A:** Follow the contributing guidelines in the README file.
 
-**Q:** What license is Butterfly App released under?
-
-**A:** Butterfly App is released under the MIT License.
 
